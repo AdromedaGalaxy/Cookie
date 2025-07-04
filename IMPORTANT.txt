@@ -1,0 +1,32 @@
+---------------------------------------
+          -- IMPORTANT NOTICE --
+
+---------------------------------------
+THIS PROGRAM WILL NOT STEAL INFORMATION
+---------------------------------------
+
+_____________________________________
+        --Everything is safe--
+
+This program has only displays storage
+and how many files you have in all of
+your hard drives. You CAN change this
+in the settings. The program NOT look
+at any folders or items in your hard
+drives nor does it mess about with
+them.
+____________________________________
+____________________________________
+  --Gathers Information from a pre
+           installed app--
+
+If your a windows user this program
+looks at information from
+"System Information". it displays
+all of your components. We take
+information from that and put it
+on my program, so you can see if its
+bad or not based of the age and
+status of it.
+_____________________________________
+-------------------------------------
